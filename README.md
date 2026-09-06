@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Wendiwiryana02/Wendiwiryana02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about building impactful software solutions and collaborating with talented developers worldwide.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer driven by curiosity and a commitment to writing clean, maintainable code. Whether it's exploring new technologies or solving complex problems, I thrive in dynamic environments where innovation meets practicality.
+
+## 💻 Tech Stack
+
+- **Languages:** JavaScript, Python, and more
+- **Specializations:** Full-stack development, problem-solving, open-source contributions
+- **Tools & Platforms:** Git, GitHub, and modern development workflows
+
+## 📂 Featured Projects
+
+*Your standout projects will go here!*
+
+## 🌟 Highlights
+
+- 🔧 Building thoughtful software that makes a difference
+- 🤝 Open to collaboration and community engagement
+- 📚 Continuous learner and technology enthusiast
+
+## 📫 Let's Connect
+
+- **GitHub:** [@Wendiwiryana02](https://github.com/Wendiwiryana02)
+- 💌 Reach out for collaboration, questions, or just to chat!
+
+---
+
+*This profile is a work in progress—check back often for updates!* ✨
